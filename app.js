@@ -6,7 +6,7 @@
 // @author       Gerbagel
 // @match        https://www.animefillerlist.com/shows/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=animefillerlist.com
-// @copyright    2022+, Gerbagel
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
